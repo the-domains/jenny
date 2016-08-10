@@ -1,0 +1,14 @@
+layout_spectrum: 0.5260972
+typography_spectrum: 0.3306796
+color:
+  saturation: 0.2992831
+  lightness: 0.6718233
+  brandStrength: 0.9014337
+  rhythmicContrast: 0.5312436
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Jenny
